@@ -1,4 +1,4 @@
-# Graph-based Text Representation Models and their Applications, A Survey
+# Graph-based Text Representation Models and their Applications, A Survey (Greek)
 
 Abstract
 
